@@ -9,10 +9,10 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.avif",
 
 	// 名字
-	name: "lanan",
+	name: "蓝桉",
 
 	// 个人签名
-	bio: "Hello, I'm lanan.",
+	bio: "落霞与孤鹜齐飞，秋水共长天一色。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -30,7 +30,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:3323084731@qq.com",
+			url: "蓝桉:3323084731@qq.com",
 			showName: false,
 		},
 		{
