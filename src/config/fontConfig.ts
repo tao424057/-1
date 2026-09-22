@@ -30,16 +30,16 @@ export const fontsList: FontDefinition[] = [
 	{
 		name: "Zen Maru Gothic",
 		cssVariable: "--font-zen-maru-gothic",
-		provider: "fontsource",
+		provider: "google",
 		weights: ["300", "400", "500", "600", "700"],
 		styles: ["normal"],
-		subsets: ["latin", "cyrillic"],
+		subsets: ["latin", "cyrillic", "japanese"],
 		fallbacks: ["sans-serif"],
 	},
 	{
 		name: "Inter",
 		cssVariable: "--font-inter",
-		provider: "fontsource",
+		provider: "google",
 		weights: ["300", "400", "500", "600", "700"],
 		styles: ["normal"],
 		subsets: ["latin", "cyrillic"],
@@ -48,7 +48,7 @@ export const fontsList: FontDefinition[] = [
 	{
 		name: "JetBrains Mono",
 		cssVariable: "--font-jetbrains-mono",
-		provider: "fontsource",
+		provider: "google",
 		weights: ["400", "700"],
 		styles: ["normal"],
 		subsets: ["latin", "cyrillic"],
