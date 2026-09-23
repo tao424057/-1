@@ -1,25 +1,30 @@
+---
+title: 关于我
+---
+
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 **蓝桉** ，一个零基础代码小白。
 
-## 🛠️ 关于本站
+## 关于本人
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+一名专注于 **视觉设计 × 内容策划 × 视频创作 × PPT定制**  的综合型设计师。
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+多年深耕设计领域，擅长从需求分析、内容梳理到视觉呈现的完整创作流程，帮助客户解决 **不知道怎么表达、内容不够吸引人、视觉缺乏专业感** 等问题。
 
+我相信，优秀的设计不仅是好看的画面，更是解决问题的方式。
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+无论是一份 **商业方案**、一场 **重要汇报** 、一套 **品牌视觉** ，还是一条 **宣传视频** ，我都会从用户视角出发，将信息转化为更具感染力和传播力的视觉作品。
 
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
+## 服务方向：
+✔ PPT定制设计  
+✔ 商业汇报方案设计  
+✔ 品牌视觉设计  
+✔ 平面宣传设计  
+✔ 视频剪辑包装  
+✔ 内容编辑优化  
 
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
-
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
+让复杂的信息更清晰，让普通的内容更有价值。
 
 ---
 
