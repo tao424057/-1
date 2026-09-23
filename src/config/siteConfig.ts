@@ -46,7 +46,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "设计师",
 
 	// 站点 URL
-	site_url: "https://firefly.cuteleaf.cn",
+	site_url: "https://tao424057.github.io/-1",
 
 	// 站点描述
 	description:
