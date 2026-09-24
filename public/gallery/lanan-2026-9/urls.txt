@@ -1,0 +1,8 @@
+# 每行一个图片 URL，支持 jpg/png/webp/avif/gif后缀
+# # 号开头的行为注释，空行会被忽略
+# 示例：https://s41.ax1x.com/2026/05/13/peXsfit.webp
+https://bing.ioliu.cn/2026/9/24/OHR.WinnatsPassPeak_UHD.jpg
+https://bing.ioliu.cn/2026/9/24/OHR.RegataStoricaVen_UHD.jpg
+https://bing.ioliu.cn/2026/9/24/OHR.MichelSunset_UHD.jpg
+https://bing.ioliu.cn/2026/9/24/OBTQ.BT44262EC6F19738BEEAC1F7FEFC12C678F0BCC45234C3DDF87E06DF8993982E87_UHD.jpg
+https://bing.ioliu.cn/2026/9/24/OBTQ.BT9E2531047D825839A570731B5A25CB72E2B2788B4F7B63F65AD7E058A49B7F2C_UHD.jpg

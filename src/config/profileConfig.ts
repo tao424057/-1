@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "蓝桉",
 
 	// 个人签名
-	bio: "落霞与孤鹜齐飞，秋水共长天一色。",
+	bio: "时间会证明一切。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
